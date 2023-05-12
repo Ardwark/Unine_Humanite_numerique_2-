@@ -1,0 +1,87 @@
+,occupation,effectif,class
+0,Archaeology,103,arch
+1,Archaeologist,57,arch
+2,Anthropology,16,arch
+3,History,14,his
+4,Historian,7,his
+5,Anthropologist,5,SHS
+6,Egyptology,4,arch
+7,Egyptologist,4,arch
+8,Paleoanthropology,4,arch
+9,Art history,3,his
+10,Ethnography,3,SHS
+11,Ethnology,3,SHS
+12,Paleontology,3,arch
+13,Geology,3,phy
+14,Actor,2,autre
+15,Professor,2,uni
+16,Politician,2,autre
+17,Folkloristics,2,SHS
+18,Epigraphy,2,lit
+19,Cartography,2,his
+20,Essayist,2,lit
+21,Historical archaeology,2,arch
+22,Priest,2,autre
+23,Archeologist,2,arch
+24,School of Oriental and African Studies,2,arch
+25,Archaeobotany,2,arch
+26,Television presenter,2,autre
+27,Anatomy,2,phy
+28,Underwater archaeology,2,arch
+29,Paleoanthropologist,1,arch
+30,Palaeography,1,lit
+31,Oriental studies,1,arch
+32,Palestine Expeditionary Fund,1,arch
+33,Numismatics,1,arch
+34,National Institute of Advanced Studies,1,autre
+35,Academic,1,uni
+36,Playwright,1,autre
+37,Papyrologist,1,arch
+38,Papyrology,1,arch
+39,Philology,1,lit
+40,Physical anthropology,1,phy
+41,Museologist,1,uni
+42,Political officer (British Empire),1,gouv
+43,Prehistorian,1,arch
+44,Prehistoric archaeology,1,arch
+45,Prehistory,1,arch
+46,Publicist,1,autre
+47,Rescue archaeology,1,arch
+48,Semitic scholar,1,lit
+49,Sumerologist,1,arch
+50,The Scout Association,1,autre
+51,University of Wisconsin-Madison,1,uni
+52,Music archaeology,1,arch
+53,Göttingen State and University Library,1,uni
+54,Military intelligence,1,gouv
+55,Material culture,1,SHS
+56,American School of Classical Studies in Athens,1,arch
+57,Anatomist,1,phy
+58,Ancient History,1,his
+59,Antiquarian,1,ant
+60,Archaeological Survey of India,1,arch
+61,Archaeology of Anglo-Saxon England,1,arch
+62,Archaeology of Ireland,1,arch
+63,Archeology,1,arch
+64,Architect,1,ing
+65,Architecture,1,ing
+66,Arctic,1,phy
+67,Art Historian,1,his
+68,Art historian,1,his
+69,Assyriologist,1,arch
+70,Assyriology,1,arch
+71,Bangalore,1,uni
+72,Biblical archaeologist,1,arch
+73,Classical archaeology,1,arch
+74,Community development,1,autre
+75,Curator,1,uni
+76,Egyptian hieroglyphs,1,arch
+77,Exploration,1,gouv
+78,Film director,1,autre
+79,Geologist,1,phy
+80,History of Iran,1,his
+81,Human evolution,1,phy
+82,Humanism,1,SHS
+83,Lecturer,1,uni
+84,Linguistics,1,lit
+85,University president,1,uni
